@@ -1,0 +1,17 @@
+C:\Users\MURATCAN\Desktop\Muratcan_Project\Muratcan_Core\bin\Debug\netcoreapp3.1\ProjectCore.deps.json
+C:\Users\MURATCAN\Desktop\Muratcan_Project\Muratcan_Core\bin\Debug\netcoreapp3.1\ProjectCore.dll
+C:\Users\MURATCAN\Desktop\Muratcan_Project\Muratcan_Core\bin\Debug\netcoreapp3.1\ProjectCore.pdb
+C:\Users\MURATCAN\Desktop\Muratcan_Project\Muratcan_Core\obj\Debug\netcoreapp3.1\ProjectCore.AssemblyInfoInputs.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project\Muratcan_Core\obj\Debug\netcoreapp3.1\ProjectCore.AssemblyInfo.cs
+C:\Users\MURATCAN\Desktop\Muratcan_Project\Muratcan_Core\obj\Debug\netcoreapp3.1\ProjectCore.csproj.CoreCompileInputs.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project\Muratcan_Core\obj\Debug\netcoreapp3.1\ProjectCore.dll
+C:\Users\MURATCAN\Desktop\Muratcan_Project\Muratcan_Core\obj\Debug\netcoreapp3.1\ProjectCore.pdb
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\Muratcan_Core\bin\Debug\netcoreapp3.1\ProjectCore.deps.json
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\Muratcan_Core\bin\Debug\netcoreapp3.1\ProjectCore.dll
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\Muratcan_Core\bin\Debug\netcoreapp3.1\ProjectCore.pdb
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\Muratcan_Core\obj\Debug\netcoreapp3.1\ProjectCore.csproj.AssemblyReference.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\Muratcan_Core\obj\Debug\netcoreapp3.1\ProjectCore.AssemblyInfoInputs.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\Muratcan_Core\obj\Debug\netcoreapp3.1\ProjectCore.AssemblyInfo.cs
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\Muratcan_Core\obj\Debug\netcoreapp3.1\ProjectCore.csproj.CoreCompileInputs.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\Muratcan_Core\obj\Debug\netcoreapp3.1\ProjectCore.dll
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\Muratcan_Core\obj\Debug\netcoreapp3.1\ProjectCore.pdb

@@ -1,0 +1,30 @@
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.deps.json
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.runtimeconfig.json
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.runtimeconfig.dev.json
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.dll
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.pdb
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\bin\Debug\netcoreapp3.1\ProjectCore.dll
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\bin\Debug\netcoreapp3.1\ProjectCore.pdb
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.csproj.AssemblyReference.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.AssemblyInfoInputs.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.AssemblyInfo.cs
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.csproj.CoreCompileInputs.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.csproj.CopyComplete
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.dll
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.pdb
+C:\Users\MURATCAN\Desktop\Muratcan_Project\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.genruntimeconfig.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.deps.json
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.runtimeconfig.json
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.runtimeconfig.dev.json
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.dll
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.pdb
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\bin\Debug\netcoreapp3.1\ProjectCore.dll
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\bin\Debug\netcoreapp3.1\ProjectCore.pdb
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.csproj.AssemblyReference.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.AssemblyInfoInputs.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.AssemblyInfo.cs
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.csproj.CoreCompileInputs.cache
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.csproj.CopyComplete
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.dll
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.pdb
+C:\Users\MURATCAN\Desktop\Muratcan_Project - Kopya\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.genruntimeconfig.cache
